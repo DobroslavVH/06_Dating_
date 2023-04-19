@@ -1,0 +1,29 @@
+export const UserEntity = ({
+    email,
+    avatarImage,
+    backgroundImage,
+    city,
+    country,
+    firstName,
+    lastName,
+    userId,
+    createAt,
+    age,
+    gender,
+    friendRequests,
+    friends
+}) => ({
+    email,
+    avatarImage,
+    backgroundImage,
+    city,
+    country,
+    firstName,
+    lastName,
+    userId,
+    createAt,
+    age,
+    gender,
+    friendRequests,
+    friends
+})
